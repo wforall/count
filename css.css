@@ -54,15 +54,17 @@ body {
 .btn_count {
     border: none;
     outline: none;
-    background-color: black;
+    background-color: rgb(27, 60, 66);
     color: whitesmoke;
-    text-transform: capitalize;
+    text-transform: uppercase;
     font-size: larger;
     margin: 5px;
     border-radius: 5px;
     width: fit-content;
     height: auto;
     cursor: pointer;
+    padding: 5px;
+    letter-spacing: 7px;
 }
 
 .btn_count:hover {
